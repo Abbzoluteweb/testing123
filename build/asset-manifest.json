@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71fbe9f9.css",
+    "main.js": "/static/js/main.aecef913.js",
+    "static/js/453.158f76b0.chunk.js": "/static/js/453.158f76b0.chunk.js",
+    "static/media/advertisement .mp4": "/static/media/advertisement .243c34fd46e93de8c53d.mp4",
+    "static/media/choose us.png": "/static/media/choose us.d97b10dd43af6c2d12ff.png",
+    "static/media/birmingham.jpg": "/static/media/birmingham.66bbfd19337a5005a092.jpg",
+    "static/media/Minimalist Interior Sale.mp4": "/static/media/Minimalist Interior Sale.01e0ab62e88081b6d62d.mp4",
+    "index.html": "/index.html",
+    "main.71fbe9f9.css.map": "/static/css/main.71fbe9f9.css.map",
+    "main.aecef913.js.map": "/static/js/main.aecef913.js.map",
+    "453.158f76b0.chunk.js.map": "/static/js/453.158f76b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71fbe9f9.css",
+    "static/js/main.aecef913.js"
+  ]
+}
